@@ -1,5 +1,4 @@
-  GNU nano 6.2                                                               optsargs.sh                                                                        #!/bin/sh
-
+#!/bin/sh
 vi=0
 N='nobody'
 M=""
