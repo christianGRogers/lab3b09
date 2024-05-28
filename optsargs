@@ -23,6 +23,9 @@ EOF
         N)
             N=${OPTARG}
         ;;
+	?)
+	   exit 1
+	;;
     esac
 done
 echo "v=${vi}";
